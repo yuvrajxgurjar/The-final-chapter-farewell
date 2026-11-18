@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#070b16">
+  <title>LOBEWOHL | SBCS Farewell 2026–27</title>
+  <meta name="description" content="One Night. A Thousand Memories. Forever. SBCS Farewell 2026–27.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+  <header class="topbar">
+    <a class="brand" href="#home">LOBEWOHL<span>®</span></a>
+    <nav><a href="#story">The Night</a><a href="#gallery">Gallery</a><a href="#videos">Videos</a></nav>
+    <a class="nav-cta" href="#gallery">Relive memories <span>↗</span></a>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="hero-kicker"><i></i> SBCS FAREWELL · 2026–27 <i></i></div>
+      <p class="eyebrow">A chapter ends. The memories don't.</p>
+      <h1>One Night.<br><em>A Thousand Memories.</em><br>Forever.</h1>
+      <p class="hero-copy">For the people, the laughter, the little moments<br class="desktop-only"> and everything we'll carry with us.</p>
+      <a class="primary-btn" href="#gallery">Explore the memories <span>↓</span></a>
+      <div class="hero-bottom"><span>17 NOVEMBER 2026</span><span class="hero-line"></span><span>BHOPAL, INDIA</span></div>
+      <div class="hero-orbit orbit-a"></div><div class="hero-orbit orbit-b"></div>
+    </section>
+
+    <section class="event-strip" id="story">
+      <div><span class="label">THE OCCASION</span><h2>LOBEWOHL <span>—</span> Farewell 2026–27</h2></div>
+      <div class="event-detail"><span class="label">DATE</span><strong>17 November 2026</strong></div>
+      <div class="event-detail"><span class="label">VENUE</span><strong>Pitchers Cafe, DB City Mall</strong><small>Bhopal, Madhya Pradesh</small></div>
+    </section>
+
+    <section class="section gallery-section" id="gallery">
+      <div class="section-heading"><div><span class="label blue-label">THE MEMORY VAULT</span><h2>Moments that <em>stay.</em></h2></div><p>Every frame holds a story.<br>Find yours.</p></div>
+      <div class="filters" id="filters">
+        <button class="filter active" data-category="All">All moments</button>
+        <button class="filter" data-category="Entry">Entry</button>
+        <button class="filter" data-category="Candid">Candid</button>
+        <button class="filter" data-category="Friends">Friends</button>
+        <button class="filter" data-category="Groups">Groups</button>
+        <button class="filter" data-category="Performances">Performances</button>
+        <button class="filter" data-category="Teachers">Teachers</button>
+      </div>
+      <div class="gallery-meta"><span id="photo-count">0 PHOTOS</span><span>CLICK A PHOTO TO VIEW</span></div>
+      <div class="photo-grid" id="gallery-grid"></div>
+      <p class="empty-note" id="empty-note">The memories are getting ready. Photos will appear here soon.</p>
+    </section>
+
+    <section class="video-section" id="videos">
+      <div class="section-heading"><div><span class="label blue-label">PRESS PLAY</span><h2>The night, <em>in motion.</em></h2></div><p>Revisit the energy.<br>Relive the feeling.</p></div>
+      <div class="video-grid" id="video-grid"></div>
+      <p class="empty-note" id="video-empty">The aftermovie will appear here soon.</p>
+    </section>
+
+    <section class="closing">
+      <span class="label blue-label">UNTIL WE MEET AGAIN</span>
+      <h2>Some goodbyes<br>are <em>forever memories.</em></h2>
+      <p>Made with memories. Remembered together.</p>
+      <a href="#home">Back to top ↑</a>
+    </section>
+  </main>
+
+  <div class="lightbox" id="lightbox" aria-hidden="true">
+    <button class="lightbox-close" id="close-lightbox" aria-label="Close">×</button>
+    <button class="lightbox-arrow prev" id="prev-photo" aria-label="Previous photo">‹</button>
+    <figure><img id="lightbox-image" alt=""><figcaption id="lightbox-caption"></figcaption></figure>
+    <button class="lightbox-arrow next" id="next-photo" aria-label="Next photo">›</button>
+  </div>
+  <footer><a class="brand" href="#home">LOBEWOHL<span>®</span></a><span>SBCS FAREWELL 2026–27</span><span>MADE OF MEMORIES ✦</span></footer>
+</body>
+</html>

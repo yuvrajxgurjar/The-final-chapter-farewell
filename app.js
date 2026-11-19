@@ -14,7 +14,7 @@ function safe(value) {
 
 async function loadData() {
   try {
-    const response = await fetch("./photos.json?v=1");
+    const response = await fetch("./photos.json?v=2");
     if (!response.ok) throw new Error(`photos.json: HTTP ${response.status}`);
     const data = await response.json();
     photos = Array.isArray(data) ? data : [];

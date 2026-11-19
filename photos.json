@@ -1,82 +1,39 @@
 [
-  {
-    "src": "assets/photos/IMG-20261119-WA0043.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0076.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0091.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0075.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0080.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0088.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0064.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0062.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0063.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0067.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0066.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0068.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0069.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0071.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0072.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  },
-  {
-    "src": "assets/photos/IMG-20261119-WA0074.jpg",
-    "category": "Friends",
-    "title": "Farewell Memories"
-  }
+{"src":"assets/photos/IMG-20261119-WA0043.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0076.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0091.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0075.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0080.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0088.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0064.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0062.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0063.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0067.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0066.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0068.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0069.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0071.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0072.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0074.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0039.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0036.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0038.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0048.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0053.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0044.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0050.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0042.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0052.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0047.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0054.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0060.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0056.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0058.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0055.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0057.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0051.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0061.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0059.jpg","category":"Friends","title":"Farewell Memories"},
+{"src":"assets/photos/IMG-20261119-WA0065.jpg","category":"Friends","title":"Farewell Memories"}
 ]
+   
